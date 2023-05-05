@@ -1,0 +1,5 @@
+requests
+vk_api
+beautifulsoup4
+lxml
+sqlalchemy
